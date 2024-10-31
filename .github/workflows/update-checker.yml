@@ -13,6 +13,7 @@
 name: Update Checker
 
 env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE20=true
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: openwrt-23.05
 
